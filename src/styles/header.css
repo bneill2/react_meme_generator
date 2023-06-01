@@ -1,0 +1,31 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.25rem;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    /* width: 550px; */
+    height: 65px;
+    color: #FFFFFF;
+}
+
+.header--title {
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    font-size: 1.25rem;
+}
+
+.header--title > img {
+   width: 12%;
+   margin-right: .5rem;
+}
+
+.header--details {
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    margin-right: 1rem;
+    font-size: .75rem;
+}
