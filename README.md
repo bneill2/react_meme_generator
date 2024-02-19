@@ -1,7 +1,5 @@
 # React Meme Generator
 
-Project created as a part of scrimba.com's 'Learn React' course.
-
 Dev environment generated using [Vite](vitejs.dev). 
 
 To view completed project visit:
